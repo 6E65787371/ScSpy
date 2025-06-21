@@ -11,7 +11,7 @@ set "smtpPort=587"
 set "emailFrom=EMAIL"
 set "emailTo=EMAIL"
 set "emailPass=PASSWORD"
-set "delaySeconds=10"
+set "delaySeconds=6"
 
 if not exist "%screenshotFolder%" mkdir "%screenshotFolder%"
 
